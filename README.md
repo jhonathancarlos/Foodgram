@@ -9,3 +9,5 @@ PASSO A PASSO PARA INSTAlAÇÃO DO PROJETO
 5- Configurar Mysql conforme uso de senha
 6- Cliente -> Faz avaliação
 7- Empresa -> Faz produto e publicação
+
+OBS: O IDEAL É VOCÊ CRIAR UM NOVO PROJETO E SUBSTITUIR A PASTA SRC POR ESSE PROJETO ATUAL POIS ALGUNS ARQUIVOS NÃO VIERAM JUNTOS.
