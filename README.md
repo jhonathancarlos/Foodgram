@@ -7,3 +7,7 @@ PASSO A PASSO PARA INSTAlAÇÃO DO PROJETO
 1 - Baixar a pasta Project
 2 - Adicione ele ao seu workspace do Eclipse
 3 - Importe a pasta Project para o Eclipse (File>Import>General>Existing Projects into Workspace)
+4- Importar dump.sql
+5- Configurar Mysql conforme uso de senha
+6- Cliente -> Faz avaliação
+7- Empresa -> Faz produto e publicação
